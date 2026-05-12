@@ -7,5 +7,7 @@ opencv-python>=4.8.0
 # NumPy для числовых операций
 numpy>=1.24.0
 
-# Дополнительные утилиты (опционально)
+# Дополнительные утилиты
 matplotlib>=3.7.0  # Для визуализации истории обучения
+seaborn>=0.12.0    # Для красивых графиков (confusion matrix)
+scikit-learn>=1.2.0 # Для метрик оценки (classification_report, confusion_matrix)
