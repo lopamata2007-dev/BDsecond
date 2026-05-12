@@ -1,0 +1,13 @@
+# TensorFlow 2.15+ для модели глубокого обучения
+tensorflow>=2.15.0
+
+# OpenCV 4.x для обработки изображений и работы с камерой
+opencv-python>=4.8.0
+
+# NumPy для числовых операций
+numpy>=1.24.0
+
+# Дополнительные утилиты
+matplotlib>=3.7.0  # Для визуализации истории обучения
+seaborn>=0.12.0    # Для красивых графиков (confusion matrix)
+scikit-learn>=1.2.0 # Для метрик оценки (classification_report, confusion_matrix)
